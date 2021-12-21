@@ -1,0 +1,74 @@
+.mg-centre {
+	margin-right: auto;
+	margin-left: auto;
+}
+.mg-top-100 {
+	margin-top: 100px;
+}
+.mg-top-50 {
+	margin-top: 50px;
+}
+.bg-test1 {
+	background-color: green;
+}
+.bg-test2 {
+	background-color: red;
+}
+.bg-black {
+	background-color: black;
+}
+.dis-flex {
+	display: flex;
+}
+.main {
+	height: 4000px;
+	width: 1200px;
+}
+.topbox {
+	height: 50px;
+}
+.storibox {
+	width: 1075px;
+	height: 425px;
+	padding-top: 25px;
+}
+.storibox2 {
+	height: 212,5px;
+}
+.storidiv {
+	width: 300px;
+	height: 170px;
+	margin-left: 44px;
+}
+.mapbox {
+	width: 716.8px;
+	height: 851.9px;
+}
+.map1 {
+	width: 1433.6px;
+	height: 903.8px;
+	background-image: url(map.jpg);
+	background-size: 100% 100%;
+	position: absolute;
+}
+.map1:hover {
+	width: 1433.6px;
+	height: 903.8px;
+	background-image: url(map.jpg);
+	background-size: 100% 100%;
+}
+.map-des {
+
+}
+.map2 {
+	width: 716.8px;
+	height: 451.9px;
+	background-image: url(hallownest-map-full.jpg);
+	background-size: 100% 100%;
+}
+.map2:hover {
+	width: 1433.6px;
+	height: 903.8px;
+	background-image: url(hallownest-map-full.jpg);
+	background-size: 100% 100%;
+}
